@@ -21,7 +21,7 @@
 }
 
 body {
-    background-color: #48393C;
+    background-color: var(--cor4);
     margin: auto;
     margin-top: 50px;
     max-width: 1080px;
@@ -140,4 +140,7 @@ img {
         margin: 10px 0;
         height: auto; /* Altura ajusta automaticamente */
     }
+    
+
+
 }
